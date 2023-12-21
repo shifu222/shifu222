@@ -1,6 +1,6 @@
-### Hola soy Shifu 👋
-##### Fase Beta 👻
-![Alt Text](https://media.giphy.com/media/aJNOolh8TMFspt7eMC/giphy.gif)
+
+# Fase Beta 👻
+<img src="https://media.giphy.com/media/aJNOolh8TMFspt7eMC/giphy.gif" width="240" height="240">
 <!--
 **shifu222/shifu222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
