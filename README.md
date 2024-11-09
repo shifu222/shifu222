@@ -1,6 +1,6 @@
 
 > # No bio yet 👻
-<img src="https://media.giphy.com/media/aJNOolh8TMFspt7eMC/giphy.gif" width="240" height="240">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEwZzRxbThzZzRldXo0aHhzeHRiNjMzMGM5cWZwampsY3MzanBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/O4B7pH57BbdVZVcNgS/giphy.gif" width="400" height="240">
 <!--
 **shifu222/shifu222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
